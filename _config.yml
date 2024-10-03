@@ -21,7 +21,7 @@ repository               : "cgsp-georgetown/Nita-Rudra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information   
-  avatar           : "https://raw.githubusercontent.com/cgsp-georgetown/Nita-Rudra/e474fddb50fa20a58614a34e2dcf7a0bc598509a/Nita Headshot.jpg"
+  avatar           : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/master/Nita%20Headshot.jpg"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
@@ -29,7 +29,7 @@ author:
   #location         : "Arlington, Virgina"
   employer         : "Georgetown University"
   googlescholar    : "https://scholar.google.com/citations?user=OLH0DEwAAAAJ"
-  uri              : # URL
+  uri              : "https://sharedprosperity.georgetown.edu/"
   email            : "nr404@georgetown.edu" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "nita-rudra"
-  Lab for GSP      : "https://sharedprosperity.georgetown.edu/"
+  #Lab for GSP      : "https://sharedprosperity.georgetown.edu/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
