@@ -26,10 +26,10 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
   Department of Government"
-  #location         : "Arlington, Virgina"
+  #location        : "Arlington, Virgina"
   employer         : "Georgetown University"
   googlescholar    : "https://scholar.google.com/citations?user=OLH0DEwAAAAJ"
-  uri              : "https://sharedprosperity.georgetown.edu/"
+  #uri             : URL
   email            : "nr404@georgetown.edu" 
 
   # Academic websites
