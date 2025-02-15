@@ -16,6 +16,9 @@ Articles
 
 ### Globalization and the Politics of Poverty and Inequality
 ------
+* Irfan Nooruddin and Nita Rudra. [“From Enthusiasm to Apathy: Dwindling Support for Globalization Among Future Generations”](https://www.google.com/url?q=https://academic.oup.com/jiel/article/27/4/697/7951587?login%3Dtrue&sa=D&source=docs&ust=1739635961799986&usg=AOvVaw1NZXXCEQqK9bNMcKnuABbh) Journal of International Economic Law (2024)
+
+* Niccolò Bonifai, Edmund J. Malesky and Nita Rudra. [“Economic risk perceptions and willingness to learn about globalization: A field experiment with migrants and other underprivileged groups in Vietnam”](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12925) American Journal of Political Science (2024)
 
 * Cameron Ballard-Rosa, Judith Goldstein and Nita Rudra. [“Trade as Villain: Belief in the American Dream and Declining Support for Globalization”](https://www.journals.uchicago.edu/doi/abs/10.1086/726936?journalCode=jop) Journal of Politics (2024)
 
@@ -88,6 +91,9 @@ Articles
 
 Articles (non-peer reviewed)
 ======
+* “America is Fighting the Wrong Trade War”. September 12, 2024 (with Niccolò Bonifai, J Bradforn Jensen, and Rodney Ludema)
+
+* “Is trade really toxic? How imports support American jobs”. April 30, 2024 (with Niccolò Bonifai, J Bradforn Jensen, Rodney Ludema, and Juna Luzi)
 
 * “The Hidden Threat to Globalization Why the Developing World Is Turning Against Free Trade” .Decmeber 3, 2021 (with Niccolo Bonifai and Irfan Noorudding) Foreign Affairs.
 
@@ -105,7 +111,3 @@ Works in progress
 
 * “FDI and the Politics of Informality” (with Helen Milner and S.P. Harish)
 
-* From Enthusiasm to Apathy: Dwindling Support for Globalization Amongst Future Generations (with Irfan Nooruddin)
-
-* Economic Risk Perceptions and Willingness to Learn about Globalization: A Field Experiment with Migrants and Other Underprivileged Groups in Vietnam (with Niccolo W. Bonifai and Edmund J. Malesky)
- 
